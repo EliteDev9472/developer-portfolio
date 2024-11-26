@@ -8,6 +8,35 @@ import HeroSection from "./components/homepage/hero-section";
 import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
 
+const DynamicAboutSection = dynamic(
+  () => import('./components/homepage/about'),
+  { ssr: false }
+)
+const DynamicContactSection = dynamic(
+  () => import('./components/homepage/contact'),
+  { ssr: false }
+)
+const DynamicEducation = dynamic(
+  () => import('./components/homepage/education'),
+  { ssr: false }
+)
+const DynamicExperience = dynamic(
+  () => import('./components/homepage/experience'),
+  { ssr: false }
+)
+const DynamicHeroSection = dynamic(
+  () => import('./components/homepage/hero-section'),
+  { ssr: false }
+)
+const DynamicProjects = dynamic(
+  () => import('./components/homepage/projects'),
+  { ssr: false }
+)
+const DynamicSkills = dynamic(
+  () => import('./components/homepage/skills'),
+  { ssr: false }
+)
+
 async function getData() {
   const res = await fetch(`https://dev.to/api/articles?username=${personalData.devUsername}`)
 
@@ -27,14 +56,14 @@ export default async function Home() {
 
   return (
     <>
-      <HeroSection />
-      <AboutSection />
-      <Experience />
-      <Skills />
-      <Projects />
-      <Education />
+      <DynamicHeroSection />
+      <DynamicAboutSection />
+      <DynamicExperience />
+      <DynamicSkills />
+      <DynamicProjects />
+      <DynamicEducation />
       {/* <Blog blogs={blogs} /> */}
-      <ContactSection />
+      <DynamicContactSection />
     </>
   )
 };
