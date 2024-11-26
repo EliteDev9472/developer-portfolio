@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Full Stack Developer',
+    title: 'Full Stack & AI Developer',
     company: "Phenomenon Studio (United States)",
     duration: "(Jan 2024 -  Oct 2024)",
     description: [

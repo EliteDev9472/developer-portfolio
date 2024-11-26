@@ -141,7 +141,6 @@ function HeroSection () {
                 <span className='text-gray-400'>{"', '"}</span>
                 <span className='text-amber-300'>FastAPI</span>
                 <span className='text-gray-400'>{"', '"}</span>
-                <span className='text-gray-400'>{"', '"}</span>
                 <span className='text-amber-300'>MySql</span>
                 <span className='text-gray-400'>{"', '"}</span>
                 <span className='text-amber-300'>PostgreSQL</span>
@@ -161,6 +160,18 @@ function HeroSection () {
                 <span className='text-amber-300'>AI/ML</span>
                 <span className='text-gray-400'>{"', '"}</span>
                 <span className='text-amber-300'>AWS</span>
+                <span className='text-gray-400'>{"', '"}</span>
+                <span className='text-amber-300'>Blockchain</span>
+                <span className='text-gray-400'>{"', '"}</span>
+                <span className='text-amber-300'>Solana</span>
+                <span className='text-gray-400'>{"', '"}</span>
+                <span className='text-amber-300'>DeFi</span>
+                <span className='text-gray-400'>{"', '"}</span>
+                <span className='text-amber-300'>Rust</span>
+                <span className='text-gray-400'>{"', '"}</span>
+                <span className='text-amber-300'>Solidty</span>
+                <span className='text-gray-400'>{"', '"}</span>
+                <span className='text-amber-300'>Smart Contract</span>
                 <span className='text-gray-400'>{"'],"}</span>
               </div>
               <div>
