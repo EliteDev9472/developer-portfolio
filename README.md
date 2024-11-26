@@ -108,26 +108,26 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/EliteDev9472/developer-portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "EliteDev",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  description: "I am EliteDev",
+  email: "elitebizpro9472@gmail.com",
+  phone: "+1 316 207 6321",
+  address: "1523 greenlake drive Aurora Illinois, United States",
+  github: "https://github.com/EliteDev9472",
+  // facebook: "https://www.facebook.com/abusaid.riyaz/",
+  linkedIn: "https://www.linkedin.com/in/jaelen-baker-b7960733a/",
+  twitter: "https://x.com/JaelenBaker103",
+  // stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
+  // leetcode: "https://leetcode.com/said3812/",
+  devUsername: "EliteDev",
   resume: "...",
 };
 ```
