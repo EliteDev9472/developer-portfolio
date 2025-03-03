@@ -9,12 +9,12 @@ export const personalData = {
     "Innovative Blockchain Developer with extensive experience leveraging Modern " +
     "Blockchain Technology to design and deploy cutting-edge decentralized " +
     "applications.",
-  email: 'elitebizpro9472@gmail.com',
-  phone: '+1 316 207 6321',
-  address: '1523 greenlake drive Aurora IL, US - 60502',
+  email: 'paul.ito9472@gmail.com',
+  phone: '+48 694911058',
+  address: 'Grzybowska 63, 00-125 Warsaw Poland',
   github: 'https://github.com/EliteDev9472',
   // facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/jaelen-baker-b7960733a/',
-  twitter: 'https://x.com/JaelenBaker103',
+  twitter: 'https://x.com/PaulIto9472',
   devUsername: "EliteDev"
 }
