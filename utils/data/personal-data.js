@@ -2,12 +2,7 @@ export const personalData = {
   name: "EliteDev",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "Full Stack Developer with extensive experience in Java, JavaScript,Express, Node.js, Nest.js, Nuxt ,Next, Angular, Vue, React, Python,FastAPI, Django, Flask, Laravel. Participate development of $500K research project which was " +
-    "deemed a 'gold standard' by the client. Increased client's revenue 2-fold after fine tuning AI/ML-based algorithms. Well-acquainted with HR methodologies. Highly " +
-    "skilled and results-oriented AI Engineer with a track record of developing and " + +
-    "implementing cutting-edge AI algorithms and models to solve complex problems. " +
-    "Innovative Blockchain Developer with extensive experience leveraging Modern " +
-    "Blockchain Technology to design and deploy cutting-edge decentralized " +
+  description: "Experienced Blockchain & Web Developer with a solid foundation in full- stack web development combined with a deep understanding of blockchain technologies. Skilled in designing and deploying decentralized applications (DApps), developing smart contracts, and integrating blockchain with modern web interfaces. Proficient in Solana, Ethereum, EVM, Rust, Solidity, Web3.js, and DApp front-end frameworks. Committed to leveraging blockchain technology to build scalable, secure, and user-centric applications, transforming traditional systems into decentralized, blockchain-powered solutions." +
     "applications.",
   email: 'paul.ito9472@gmail.com',
   phone: '+48 694911058',
