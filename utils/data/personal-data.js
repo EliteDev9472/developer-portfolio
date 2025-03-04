@@ -9,7 +9,7 @@ export const personalData = {
   address: 'Grzybowska 63, 00-125 Warsaw Poland',
   github: 'https://github.com/EliteDev9472',
   // facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/jaelen-baker-b7960733a/',
+  linkedIn: 'https://www.linkedin.com/in/paul-ito-011b19353/',
   twitter: 'https://x.com/PaulIto9472',
   devUsername: "EliteDev"
 }

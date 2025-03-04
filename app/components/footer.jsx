@@ -15,7 +15,7 @@ function Footer () {
             © Developer Portfolio by{' '}
             <Link
               target='_blank'
-              href='https://www.linkedin.com/in/jaelen-baker-b7960733a/'
+              href='https://www.linkedin.com/in/paul-ito-011b19353/'
               className='text-[#16f2b3]'
             >
               EliteDev
